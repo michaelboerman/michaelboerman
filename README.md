@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a burgoning data scientist and open to career opportunities. 
+I'm a burgeoning data scientist and open to career opportunities. 
 
 - I'm most proud of: my [US Covid Lockdown Severity Index](https://github.com/michaelboerman/lockdown_severity_index).
 - 📫 How to reach me: visit [my website](www.michaelboerman.com), then write to interesting@michaelboerman.com  
-- 🔭 I’m currently working on: my full time job at the Federal Reserve Board, watching the Tour de France, and planning my wedding.  
+- 🔭 I’m currently working on: my full time job at the Federal Reserve Board and planning my wedding.  
 - 🌱 I’m currently learning: Advanced git (actions, CI/CD), R package development. 
 - 💬 Ask me about: my enthrallment with the tidyverse
 - ⚡ Fun fact: I once biked from Canada to Mexico
