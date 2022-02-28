@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm a burgeoning data scientist and open to career opportunities. 
 
-- I'm most proud of: my [US Covid Lockdown Severity Index](https://github.com/michaelboerman/lockdown_severity_index).
+- I'm most proud of: my [US Covid Lockdown Severity Index](https://github.com/michaelboerman/lockdown_severity_index) and having my [Pull Request accepted by Jenny Bryan for the R-package developement book](https://github.com/hadley/r-pkgs/pull/769).
 - 📫 How to reach me: visit [my website](www.michaelboerman.com), then write to michaelboerman@hey.com
-- 🔭 I’m currently working on: my full time job at the Federal Reserve Boarda and figuring out the whole new marriage thing.  
+- 🔭 I’m currently working on: my full time job at the Federal Reserve Board and figuring out the whole new marriage thing.  
 - 🌱 I’m currently learning: Advanced git (actions, CI/CD), R package development. 
 - 💬 Ask me about: my enthrallment with the tidyverse
 - ⚡ Fun fact: I once biked from Canada to Mexico
