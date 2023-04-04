@@ -1,6 +1,6 @@
 ### Hello, World 👋
 
-I'm a burgeoning data scientist and am actively applying to remote roles. If you or someone you know is hiring, please contact me! 
+I'm a data scientist and am actively applying to remote roles. If you or someone you know is hiring, please contact me!
 
 - I'm most proud of: Having my [Pull Request accepted by Jenny Bryan for the R-package developement book](https://github.com/hadley/r-pkgs/pull/769) and  another [pull request accepted by Hadley Wickham for the R for Data Science book!](https://github.com/hadley/r4ds/pull/1018#issuecomment-1119028074)
 - My most fun project: [See how early, or late, you caught covid](https://michaelboerman.shinyapps.io/covid_percentiles/).
